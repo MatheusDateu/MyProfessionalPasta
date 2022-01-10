@@ -1,0 +1,10 @@
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\bin\Debug\CalculadoraMVC.exe.config
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\bin\Debug\CalculadoraMVC.exe
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\bin\Debug\CalculadoraMVC.pdb
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\obj\Debug\CalculadoraMVC.csproj.AssemblyReference.cache
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\obj\Debug\CalculadoraMVC.Form1.resources
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\obj\Debug\CalculadoraMVC.Properties.Resources.resources
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\obj\Debug\CalculadoraMVC.csproj.GenerateResource.cache
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\obj\Debug\CalculadoraMVC.csproj.CoreCompileInputs.cache
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\obj\Debug\CalculadoraMVC.exe
+C:\Users\mdelm\source\repos\CalculadoraMVC\CalculadoraMVC\obj\Debug\CalculadoraMVC.pdb
