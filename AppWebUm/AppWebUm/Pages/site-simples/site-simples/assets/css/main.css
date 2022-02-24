@@ -1,0 +1,87 @@
+:root {
+  --green: #00ff00;
+  --white: #ffffff;
+  --black: #000000;
+}
+* {
+  color: var(--fontColor);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px;
+}
+body {
+  background: var(--bg);
+}
+.links {
+  color: blue;
+}
+h2{
+  padding-top: 1rem;
+  padding-bottom: .1rem;
+}
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+li {
+  list-style: circle;
+}
+
+.list {
+  list-style: square;
+}
+.dark-theme {
+  --bg: var(--black);
+  --fontColor: rgb(71, 204, 105);
+  --btnBg: var(--white);
+  --btnFontColor: var(--black);
+}
+.dark-theme a {
+  color: rgb(0, 238, 255);
+}
+.btnChangeTheme {
+  position: absolute;
+  top: 75px;
+  left: 80%;
+  height: 100px;
+  width: 100px;
+  border-radius: 10%;
+  border: solid #736464;
+  color: var(--black);
+  background-color: rgb(206, 202, 202);
+}
+.btnCalculateIBM {
+  margin: 2%;
+}
+.btn:focus {
+  outline-style: none;
+}
+form {
+  position: relative;
+  left: 20%;
+  width: 60%;
+  margin: 2%;
+  font-size: 9px;
+}
+input {
+  font-size: 9px;
+  block-size: 1.2rem;
+}
+.showText {
+  display: inline-block;
+  min-width: 80px;
+  min-height: 20px;
+  max-block-size: 400px;
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  border-style: outset;
+  border-color: #7a7878;
+  font-size: 9px;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  text-size-adjust: 30%;
+}
+.titleCalcIBM {
+  position: static;
+  margin-left: 2rem;
+}
