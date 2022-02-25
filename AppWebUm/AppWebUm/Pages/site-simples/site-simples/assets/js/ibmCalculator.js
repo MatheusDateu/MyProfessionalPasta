@@ -20,7 +20,7 @@ const ibmCalculator = () => {
       criaLink("UnderW");
     } else if (ibm >= 20 && ibm < 25) {
       inputResult.textContent = ibm.toFixed(2);
-      inputTips.textContent = "Geat! You are at normal weight.";
+      inputTips.textContent = "Great! You are at normal weight.";
       criaLink("Normal");
 
     } else if (ibm >= 25 && ibm < 30) {
